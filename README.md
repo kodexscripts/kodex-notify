@@ -22,14 +22,6 @@ Designed with a focus on **clean UI**, **flexibility**, and **optimized performa
 
 ---
 
-## 🎥 Preview
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1476792812971495529/1486938724259467355/KODEX_NOTIFY.png" width="750">
-</p>
-
----
-
 ## ▶️ Video Showcase
 
 <p align="center">
