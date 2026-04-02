@@ -9,13 +9,34 @@ ESX • QBCore • Standalone
   <a href="https://kodexscripts.tebex.io/">
     <img src="https://img.shields.io/badge/Buy%20Now-Tebex-blue?style=for-the-badge">
   </a>
+  <a href="https://discord.gg/ECBnhHKWjc">
+    <img src="https://img.shields.io/badge/Join%20Discord-Support-blue?style=for-the-badge">
+  </a>
 </p>
 
 ---
 
 ## 🔷 Overview
 Kodex Notify is a high-performance notification and announcement system built for serious FiveM RP servers.  
-Designed for clean UI, flexibility, and optimized performance.
+Designed with a focus on **clean UI**, **flexibility**, and **optimized performance**.
+
+---
+
+## 🎥 Preview
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1476792812971495529/1486938724259467355/KODEX_NOTIFY.png" width="750">
+</p>
+
+---
+
+## ▶️ Video Showcase
+
+<p align="center">
+  <a href="https://youtu.be/sO3s7PWtLg4">
+    <img src="https://img.youtube.com/vi/sO3s7PWtLg4/maxresdefault.jpg" width="750">
+  </a>
+</p>
 
 ---
 
@@ -24,29 +45,26 @@ Designed for clean UI, flexibility, and optimized performance.
 - 🔔 Advanced Notification System  
 - 📢 Job-Based Announcements (Police, EMS, Staff, Custom Jobs)  
 - 🎨 Clean & Modern UI  
-- ⚙️ Fully Configurable  
-- ⚡ Optimized (0.00–0.01ms idle)  
+- ⚙️ Fully Configurable System  
+- 🧠 Smart Event & Export Integration  
+- ⚡ Optimized Performance (0.00–0.01ms idle)  
 - 🔗 ESX / QBCore / Standalone Support  
 
 ---
 
-## 🎥 Preview
+## 🔷 Use Cases
 
-<p align="center">
-  <img src="[your-image-link.png](https://cdn.discordapp.com/attachments/1476792812971495529/1486938724259467355/KODEX_NOTIFY.png?ex=69cf3c19&is=69cdea99&hm=31ca30f47d7e35ae689a59f2bbc285734bc28ddaf2eb568ed0aaa7612be05ab4&)" width="600">
-</p>
----
-
-## 🛒 Purchase
-https://kodexscripts.tebex.io/
+- 🚓 Police dispatch alerts  
+- 🚑 EMS emergency broadcasts  
+- 📢 Server-wide announcements  
+- 👥 Job-specific communication  
+- 🔧 Custom script integrations  
 
 ---
 
-## 💬 Support
-https://discord.gg/ECBnhHKWjc
+## 🔷 Installation
 
----
-
-## ⚠️ Disclaimer
-This repository is for **showcase purposes only**.  
-The full script is available exclusively via Tebex.
+```bash
+1. Drag resource into your server
+2. Add to server.cfg
+3. Configure via config.lua
