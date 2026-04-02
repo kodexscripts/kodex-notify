@@ -54,6 +54,25 @@ Designed with a focus on **clean UI**, **flexibility**, and **optimized performa
 
 ---
 
+## 🛒 Purchase
+<p align="center"> <a href="https://kodexscripts.tebex.io/"> <img src="https://img.shields.io/badge/Buy%20Kodex%20Notify-Tebex-blue?style=for-the-badge"> </a> </p>
+
+Tebex: https://kodexscripts.tebex.io/
+
+Full product details, updates, and secure delivery are handled via Tebex.
+---
+
+## 💬 Support
+<p align="center"> <a href="https://discord.gg/ECBnhHKWjc"> <img src="https://img.shields.io/badge/Join%20Support%20Discord-blue?style=for-the-badge"> </a> </p>
+---
+
+## ⚠️ Disclaimer
+
+This repository is for showcase purposes only.
+The full script is not included and is available exclusively via Tebex.
+
+---
+
 ## 🔷 Installation
 
 ```bash
